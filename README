@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5097
+
+This vim bundle adds syntax highlighting, indenting and autocompletion for the dynamic stylesheet language LESS.
+
+* Update to LESS v2.3.0
+* vim-css-color Compatible
+* vim-css3-syntax Compatible
+* Any bundle that places css syntax into after/syntax/css/*
